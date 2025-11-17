@@ -10,7 +10,7 @@ class ReadMe {
     
     static let bio: String? = """
             Results-oriented software developer in the field of iOS Development. I make it my goal
-            to create software with a useable and intuitive user interface experience. I also, create highly
+            to create software with a reusable and intuitive user interface experience. I also create highly
             readable and easily maintainable source code. I am constantly striving to learn new technologies
             and look for ways to better myself in this rapidly changing industry.
             """
@@ -69,18 +69,3 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 <code><img height="34" src="/assets/firebase.svg"></code> &nbsp;
 <code><img height="34" src="/assets/postman.svg"></code> &nbsp;
 <code><img height="34" src="/assets/realm.svg"></code> &nbsp;
-
-
-<br/>
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=sala7khaled&label=Profile%20Views&color=1&icon=3&pretty=true)]()
-
-<!--- <br/>
-<br/>
-<br/>
-
-### 🎧 Now listening
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314g5x2eb4k3zcx2fuguw2aa3w6y&cover_image=true&theme=default&show_offline=false&background_color=161B22) 
--->
