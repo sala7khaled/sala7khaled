@@ -9,11 +9,11 @@ class ReadMe {
                                               "website": URL(string: "https://linktr.ee/sala7khaled/")!]
     
     static let bio: String? = """
-            Results-oriented software developer with 4+ years of professional experience in building high-quality iOS applications
-            using Swift and SwiftUI. Specialized in writing clean, reusable, and maintainable code while delivering user-friendly
-            and high-performance interfaces. Experienced in working on complex and critical applications with a strong sense of
-            ownership and attention to quality and stability. I'm focused on continuing to learning and adapt to new technologies
-            and industry best practices.
+            Results-oriented software developer with 4+ years of professional experience in building high-quality iOS
+            applications using Swift and SwiftUI. Specialized in writing clean, reusable, and maintainable code while
+            delivering user-friendly and high-performance interfaces. Experienced in working on complex and critical
+            applications with a strong sense of ownership and attention to quality and stability. I'm focused on
+            continuing to learning and adapt to new technologies and industry best practices.
             """
 
 }
