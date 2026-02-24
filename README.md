@@ -2,18 +2,18 @@
 ```swift
 import Foundation
 
-class ReadMe {
+struct Profile {
+    static let contact: [String: Any] = ["name": "Salah Khaled",
+                                         "role": "iOS Developer",
+                                         "email": "sala7khalad@gmail.com",
+                                         "website": URL(string: "https://linktr.ee/sala7khaled/")!]
 
-    static let personalInfo: [String: Any] = ["name": "Salah Khaled",
-                                              "title": "iOS Developer",
-                                              "website": URL(string: "https://linktr.ee/sala7khaled/")!]
-    
     static let bio: String? = """
-            Results-oriented software developer with 4+ years of professional experience in building high-quality iOS
-            applications using Swift and SwiftUI. Specialized in writing clean, reusable, and maintainable code while
-            delivering user-friendly and high-performance interfaces. Experienced in working on complex and critical
-            applications with a strong sense of ownership and attention to quality and stability. I'm focused on
-            continuing to learning and adapt to new technologies and industry best practices.
+            Results-oriented software developer with professional experience in building high-quality iOS
+            applications using Swift and SwiftUI. Specialized in writing clean, reusable, and maintainable code
+            while delivering user-friendly and high-performance interfaces. Experienced in working on complex
+            and critical applications with a strong sense of ownership and attention to quality and stability.
+            I'm focused on continuing to learning and adapt to new technologies and industry best practices.
             """
 
 }
@@ -22,9 +22,7 @@ class ReadMe {
 🔭 I’m currently working at [MENT'ECH](https://tech.mentmena.com/)
 <br/>
 -->
-🌱 I’m currently learning SwiftUI ([`Todo`](http://github.com/sala7khaled/Todo-SwiftUI), [`DataFlow`](http://github.com/sala7khaled/DataFlow-SwiftUI), [`WebView`](http://github.com/sala7khaled/WebView-SwiftUI))
-<br/>
-💬 Ask me about anything [Here](https://github.com/sala7khaled/sala7khaled/issues)
+🌱 I’m currently learning SwiftUI [`Todo`](http://github.com/sala7khaled/Todo-SwiftUI)  [`DataFlow`](http://github.com/sala7khaled/DataFlow-SwiftUI)  [`WebView`](http://github.com/sala7khaled/WebView-SwiftUI)
 <br/>
 
 <a href="https://linktr.ee/sala7khaled"> <img align="left" alt="Salah Khaled | Linktree" width="34px" src="/assets/linktree.svg" />
