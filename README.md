@@ -18,10 +18,11 @@ class ReadMe {
 
 }
 ```
-
+<!---
 🔭 I’m currently working at [MENT'ECH](https://tech.mentmena.com/)
 <br/>
-🌱 I’m currently learning [SwiftUI](https://developer.apple.com/tutorials/swiftui)
+-->
+🌱 I’m currently learning SwiftUI ([`Todo`](http://github.com/sala7khaled/Todo-SwiftUI), [`DataFlow`](http://github.com/sala7khaled/DataFlow-SwiftUI), [`WebView`](http://github.com/sala7khaled/WebView-SwiftUI))
 <br/>
 💬 Ask me about anything [Here](https://github.com/sala7khaled/sala7khaled/issues)
 <br/>
