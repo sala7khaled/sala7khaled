@@ -22,7 +22,7 @@ struct Profile {
 🔭 I’m currently working at [MENT'ECH](https://tech.mentmena.com/)
 <br/>
 -->
-🌱 I’m currently learning SwiftUI [`Todo`](http://github.com/sala7khaled/Todo-SwiftUI)  [`DataFlow`](http://github.com/sala7khaled/DataFlow-SwiftUI)  [`WebView`](http://github.com/sala7khaled/WebView-SwiftUI)
+🌱 I’m currently learning SwiftUI  [`Network`](https://github.com/sala7khaled/Network-SwiftUI)  [`DataFlow`](http://github.com/sala7khaled/DataFlow-SwiftUI)  [`Todo`](http://github.com/sala7khaled/Todo-SwiftUI)  [`WebView`](http://github.com/sala7khaled/WebView-SwiftUI)
 <br/>
 
 <a href="https://linktr.ee/sala7khaled"> <img align="left" alt="Salah Khaled | Linktree" width="34px" src="/assets/linktree.svg" />
