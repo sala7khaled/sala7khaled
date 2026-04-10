@@ -3,10 +3,10 @@
 import Foundation
 
 struct Profile {
-    static let contact: [String: Any] = ["name": "Salah Khaled",
-                                         "role": "iOS Developer",
-                                         "email": "sala7khalad@gmail.com",
-                                         "website": URL(string: "https://linktr.ee/sala7khaled/")!]
+    static let info: [String: Any] = ["name": "Salah Khaled",
+                                      "role": "iOS Developer",
+                                      "email": "sala7khalad@gmail.com",
+                                      "website": URL(string: "https://linktr.ee/sala7khaled/")!]
 
     static let bio: String? = """
         Results-oriented software developer with professional experience in building high-quality iOS
