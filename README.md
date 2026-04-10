@@ -13,9 +13,8 @@ struct Profile {
         applications using Swift and SwiftUI. Specialized in writing clean, reusable, and maintainable code
         while delivering user-friendly and high-performance interfaces. Experienced in working on complex
         and critical applications with a strong sense of ownership and attention to quality and stability.
-        I'm focused on continuing to learning and adapt to new technologies and industry best practices.
+        I'm focused on continuing to learn and adapt to new technologies and industry best practices.
         """
-
 }
 ```
 <!---
