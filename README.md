@@ -64,4 +64,6 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 
 <br/>
 
+<!---
 ![Profile views](https://komarev.com/ghpvc/?username=sala7khaled)
+-->
